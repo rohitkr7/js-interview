@@ -1,6 +1,19 @@
-
-
 # **JavaScript Concepts and Examples**
+
+## **Table of Contents**
+1. [Async/Await](async-awit.md)
+2. [Temporal Dead Zone (TDZ)](var-let-const-comparision.md)
+3. [Prototype in JavaScript](prototype.md)
+4. [Polyfill for `map` Function](polyfill-map.md)
+5. [Memoization](memoization.md)
+6. [Private Functions in JavaScript](private-functions.md)
+7. [`apply()` Function](apply-fuction.md)
+8. [Class in JavaScript](hoisting.md)
+9. [Inheritance in JavaScript](hoisting.md)
+10. [Currying](closure.md)
+11. [Map, Filter, and Reduce](map-filter-reduce.md)
+
+---
 
 ## **1. `async/await`**
 `async/await` is a modern way to handle asynchronous operations in JavaScript. It makes asynchronous code look and behave more like synchronous code.
@@ -261,4 +274,3 @@ console.log(sum); // Output: 15
 
 ### **Summary**
 This document covers key JavaScript concepts such as `async/await`, prototypes, polyfills, memoization, private functions, and more. Each section includes examples for easy reference and practical understanding.
-
